@@ -128,3 +128,6 @@ El más difícil fue el Reto 08: las pruebas pasaban la persistencia pero fallab
 ## Evidencia
 
 ![npm test con las 9 suites en verde](docs/npm-test.png)
+## Evidencia
+
+![npm test con las 9 suites en verde](docs/npm-test.png)
